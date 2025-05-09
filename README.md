@@ -1,37 +1,34 @@
-#Analyzing Agricultural Productivity Across Indian States
-This Power BI project presents a comprehensive analysis of agricultural productivity across Indian states using interactive visuals. It focuses on average production and fertilizer usage patterns to uncover regional and crop-based trends.
+🌾 Analyzing Agricultural Productivity Across Indian States
+This Power BI project visualizes key agricultural metrics across Indian states to uncover insights into crop production and fertilizer usage. The dashboard enables interactive exploration to support decision-making in the agriculture sector.
 
-📊 Key Visualizations
-Cards – Display average values for quick insights
+📊 Visualizations Used
+Visualization Type	Purpose
+📌 Cards	Display key summary metrics and averages
+📊 Bar Charts	Compare values across states and crops
+📈 Line Charts	Show trends and changes over time (if applicable)
+🥧 Pie Charts	Show proportional breakdowns
+🧱 Stacked Columns	Visualize multiple metrics side-by-side
 
-Bar Charts – Compare average production and fertilizer usage across states and crops
+🔍 Key Metrics Visualized
+🌿 Average Production by Crop
 
-Pie Charts – Show crop-wise or state-wise proportions
+🗺️ Average Production by State
 
-Line Charts – Track trends over time (if applicable)
+🧪 Average Fertilizer Usage (Overall)
 
-Stacked Column Charts – Visualize multiple factors together for better comparison
+🌾 Average Fertilizer Usage by Crop
 
-🔍 Metrics Analyzed
-Average Production by Crop
+📁 Files Included
+Agricultural_Productivity_India.pbix – Power BI dashboard
 
-Average Production by State
+dataset/ – Contains raw or processed data used for visualization
 
-Average Fertilizer Usage
+Screenshots/ (optional) – Dashboard preview images
 
-Average Fertilizer Usage by Crop
+🛠️ Tools & Technologies
+Power BI Desktop
 
-🛠️ Tools Used
-Power BI for data modeling and visualization
+Public agricultural datasets from Indian government or open sources
 
-Public agricultural datasets (state/crop-wise)
-
-📁 Repository Contents
-Power BI Report file (.pbix)
-
-Sample dataset (optional)
-
-Dashboard screenshots (optional)
-
-📌 Objective
-To help users explore agricultural data through interactive visuals and gain insights into productivity and fertilizer usage across different crops and states.
+🎯 Objective
+To analyze and present agricultural data in an intuitive, visual format that enables insights into productivity and input use across regions and crops in India.
