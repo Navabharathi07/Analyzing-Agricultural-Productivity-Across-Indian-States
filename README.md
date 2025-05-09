@@ -21,9 +21,7 @@ Visualization Type	Purpose
 📁 Files Included
 Agricultural_Productivity_India.pbix – Power BI dashboard
 
-dataset/ – Contains raw or processed data used for visualization
-
-Screenshots/ (optional) – Dashboard preview images
+Indian_Agriculture - dataset
 
 🛠️ Tools & Technologies
 Power BI Desktop
