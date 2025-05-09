@@ -1,4 +1,4 @@
-Analyzing Agricultural Productivity Across Indian States
+#Analyzing Agricultural Productivity Across Indian States
 This Power BI project presents a comprehensive analysis of agricultural productivity across Indian states using interactive visuals. It focuses on average production and fertilizer usage patterns to uncover regional and crop-based trends.
 
 📊 Key Visualizations
